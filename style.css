@@ -1,0 +1,23 @@
+# SALISU ABUBAKAR Abare — Personal Portfolio
+
+A responsive personal portfolio website built with HTML and CSS.
+
+## Files
+- `index.html` — website structure and content
+- `style.css` — styling and responsive layout
+- `profile-photo.png` — profile image used on the website
+
+## Preview locally
+1. Extract this ZIP file.
+2. Open `index.html` in a web browser.
+
+## Publish with GitHub Pages
+1. Sign in to GitHub and create a new repository, such as `salisu-portfolio`.
+2. Upload `index.html`, `style.css`, `profile-photo.png`, and `README.md` to the repository's root.
+3. Open the repository's **Settings**.
+4. Select **Pages**.
+5. Under **Build and deployment**, choose **Deploy from a branch**.
+6. Select the `main` branch and the `/ (root)` folder, then click **Save**.
+7. Wait a few minutes. GitHub will show your published website URL in the Pages section.
+
+Keep `profile-photo.png` in the same folder as `index.html`, because the page references that filename.
